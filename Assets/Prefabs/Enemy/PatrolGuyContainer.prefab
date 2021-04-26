@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1915516634}
-  - component: {fileID: 1915516636}
+  - component: {fileID: 8626204669669221564}
   m_Layer: 0
   m_Name: Attack Player Trigger
   m_TagString: Untagged
@@ -31,7 +31,7 @@ Transform:
   m_Father: {fileID: 467259709088840810}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!58 &1915516636
+--- !u!58 &8626204669669221564
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -44,9 +44,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.0074834824}
+  m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.2636509
+  m_Radius: 0.28285122
 --- !u!1 &467259707980376266
 GameObject:
   m_ObjectHideFlags: 0
