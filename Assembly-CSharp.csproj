@@ -99,6 +99,7 @@
     <Compile Include="Assets\Scripts\GamePlay\CheckPoint.cs" />
     <Compile Include="Assets\Scripts\Plat\FallingPlat.cs" />
     <Compile Include="Assets\Scripts\Character\AttackSwordCollider.cs" />
+    <Compile Include="Assets\Scripts\Plat\UpPlat.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
