@@ -51,7 +51,8 @@ public class UIManager : MonoBehaviour
         itemSpeedShoes = PlayerPrefs.GetInt(SAVE_PLAYER_PREFS.itemSpeedShoes.ToString(), 0);
         itemMagnet = PlayerPrefs.GetInt(SAVE_PLAYER_PREFS.itemMagnet.ToString(), 0);
         highCoins = PlayerPrefs.GetInt(SAVE_PLAYER_PREFS.highCoins.ToString(), 0);
-        //highCoins = 10000;
+        highCoins = 100000;
+        //PlayerPrefs.DeleteAll();
     }
 
     private void Start()

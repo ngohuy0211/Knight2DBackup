@@ -7,14 +7,8 @@ public class BasicEnemy : MonoBehaviour
     [Header("Enemy Render")]
     public EnemyData EnemyData;
     public PlayerController player;
-    private Animator anim;
     public SpriteRenderer characterSprite;
     public float knockPow;
-
-    private void Start()
-    {
-        anim = gameObject.GetComponent<Animator>();
-    }
 
     public void Damage(int damage)
     {

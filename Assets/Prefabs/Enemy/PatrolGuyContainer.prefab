@@ -206,8 +206,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.002641052, y: -0.02}
-  m_Size: {x: 0.1103484, y: 0.0001}
+  m_Offset: {x: -0.013738155, y: -0.0036205053}
+  m_Size: {x: 0.30035114, y: 0.30035138}
   m_Direction: 0
 --- !u!95 &653737741
 Animator:
@@ -246,7 +246,6 @@ MonoBehaviour:
     damage: 10
     died: 1
   player: {fileID: 0}
-  anim: {fileID: 0}
   characterSprite: {fileID: 467259709088840814}
   knockPow: 20
   PointA: {fileID: 467259709050597291}
