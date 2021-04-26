@@ -37649,7 +37649,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7567889598602649782, guid: 874948932885ab1409f951d9a2ef4aab, type: 3}
       propertyPath: levelLoad
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7567889598602649782, guid: 874948932885ab1409f951d9a2ef4aab, type: 3}
       propertyPath: txtPressBtnNextLevel
